@@ -1,4 +1,4 @@
-This is our final project for our Artificial Neural Networks and Deep Learning Project. The model has the ability to classify images of disposable drink containers in the Pant A,B,C classes of the Danish bottle redemption system. Currently, with the available data, it does this at about a 77-83% accuracy. 
+This is our final project for our Artificial Neural Networks and Deep Learning. The model has the ability to classify images of disposable drink containers in the Pant A,B,C classes of the Danish bottle redemption system. Currently, with the available data, it does this at about a 77-83% accuracy. 
 
 We used Tensorflow for model definition and training, Keras for building the sequential models, ImageDataGenerator to load images and preprocess, and ModelCheckpoint/EarlyStopping callbacks to save the best model and avoid overfitting.
 
